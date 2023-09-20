@@ -1,0 +1,11 @@
+{
+  "name": "atast_club",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "firebase-admin": "^10.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
